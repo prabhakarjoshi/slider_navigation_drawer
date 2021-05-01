@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alice</item>
+        <item>@font/cagliostro</item>
+        <item>@font/comfortaa_light</item>
+        <item>@font/macondo_swash_caps</item>
+        <item>@font/merienda_one</item>
+        <item>@font/numans</item>
+    </array>
+</resources>
